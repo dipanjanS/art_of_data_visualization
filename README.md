@@ -7,7 +7,7 @@ Descriptive Analytics is one of the core components of any analysis life-cycle p
 __BONUS:__ We will also look at ways to visualize unstructured data with several dimensions including text, images and audio!
 
 
-The talk is usually a 90 minutes session but we will be covering it in the scheduled 45 minute session focusing on the main aspects of effective data visualization with the grammar of graphics, leveraging popular open-source frameworks in Python and also as a bonus cover visualization in unstructured data including text, audio and images.
+The talk is usually a 90 minutes session but we will be covering it in the scheduled time focusing on the main aspects of effective data visualization with the grammar of graphics, leveraging popular open-source frameworks in Python. If we have time to spare, as a bonus we will then cover visualization in unstructured data including text, audio and images.
 
 __Outline:__
 
